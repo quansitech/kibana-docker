@@ -1,4 +1,4 @@
-FROM kibana:6.6.0
+FROM kibana:7.10.1
 
 USER root
 
